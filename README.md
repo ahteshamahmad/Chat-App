@@ -47,7 +47,7 @@ Start the server
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![App Screenshot](https://images.app.goo.gl/iXWEgo7UNSNX8wmj7)
+![App Screenshot](https://docs.google.com/document/d/1kGhi_Ht5EiFdXSZjkkICq2MM_K_CRlKI9KYaBtC0T3U/edit?usp=sharing)
 
 
 ## FAQ
