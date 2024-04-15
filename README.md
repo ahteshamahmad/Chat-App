@@ -44,7 +44,7 @@ Start the server
 
 
 ## Screenshots
-![App Screenshot](http://localhost:3002/uploads/1713160733197-Jira_Project.PNG)
+![App Screenshot](https://raw.githubusercontent.com/ahteshamahmad/Chat-App/main/Jira_Project.PNG)
 
 ![App Screenshot](http://localhost:3002/uploads/1713160855564-Jira_Ticket.PNG)
 
