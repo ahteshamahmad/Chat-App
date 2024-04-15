@@ -44,10 +44,9 @@ Start the server
 
 
 ## Screenshots
+![App Screenshot](http://localhost:3002/uploads/1713160733197-Jira_Project.PNG)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://docs.google.com/document/d/1kGhi_Ht5EiFdXSZjkkICq2MM_K_CRlKI9KYaBtC0T3U/edit?usp=sharing)
+![App Screenshot](http://localhost:3002/uploads/1713160855564-Jira_Ticket.PNG)
 
 
 ## FAQ
